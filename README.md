@@ -7,9 +7,12 @@ Respondents were asked a series of questions with relevance to personal backgrou
 career, future aspirations, and more.
 
 Objectives of project:
+
   • What current technologies are relevant to software professionals?
+  
   • Which technologies could be of importance to learn for the future or to
   meet the needs of the job market?
+  
   • What are the demographic qualities of the respondents?
   
 This repository contains all the jupyter notebooks of the entire data analysis process.
